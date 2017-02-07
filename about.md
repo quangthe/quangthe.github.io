@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-Some information about you!
+## <i class="fa fa-code" ></i> About me
+I'm passinate about software development and excited by future of technology. To me, software not only empowers people but also provides tools for people open many possibilities.
 
-### More Information
+## <i class="fa fa-cloud" ></i> Background
+* I studied software development at University of Science HCM city (2006-2010)
+* Having 6 year experience in Java/J2EE software development. 
+* Having strong experience with Java core, J2EE, OOP, Spring, Hibernate, EJB, GWT, Vaadin. 
+* Good at design pattern. 
+* Quick learner so I can keep up with new technologies quickly.
 
-A place to include any other types of information that you'd like to include about yourself.
+## <i class="fa fa-info-circle" ></i> Contact me
 
-### Contact me
+<i class="fa fa-envelope-o"></i> [tran.q.the@gmail.com](mailto:tran.q.the@gmail.com)
 
-[email@domain.com](mailto:email@domain.com)
+<i class="fa fa-skype"></i> <a href="skype:tran.q.the?call">tran.q.the</a>

@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ## <i class="fa fa-code" ></i> About me
-I'm passinate about software development and excited by future of technology. To me, software not only empowers people but also provides tools for people open many possibilities.
+I'm passionate about software development and excited by future of technology. To me, software not only empowers people but also provides tools for people open many possibilities.
 
 ## <i class="fa fa-cloud" ></i> Background
 * I studied software development at University of Science HCM city (2006-2010)
